@@ -1,15 +1,15 @@
 .hidden {
     display: none;
 }
-#greytext {
+#greentext {
     transition: all 0.5s ease;
     transform-origin: center;
 }
 
-#badge:hover #bgcircle {
+#icon1:hover #bgcircle {
     fill: orange;
 }
-#badge:hover #greytext {
+#icon1:hover #greentext {
     fill:white;
     transform:rotate(130deg);
 }
