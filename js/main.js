@@ -3,7 +3,7 @@ console.log("JS file connected");
 
 console.log('JavaScript is running!');
 
-const vectorGraphic = document.querySelector('#badge');
+const vectorGraphic = document.querySelector('#icon1');
 //console.log(vectorGraphic);
 console.log(this);
 
