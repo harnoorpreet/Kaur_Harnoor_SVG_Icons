@@ -16,3 +16,6 @@
 div {
     display: inline;
 }
+#square:hover{
+    transition: blink;
+}
